@@ -1,6 +1,9 @@
 This is a simple music player app where users can listen to and also upload their own songs for others to discover.
+
 TechStack used are:
+
 Frontend - HTML, CSS, Bootstrap
+
 Backend - python  / Django
 
 The information displayed in this project are only for examples and they do not represent the actual artists.
